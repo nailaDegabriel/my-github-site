@@ -5,6 +5,6 @@ My first Github project
 - I'm in 9th grade at Energy Tech High School
 - I enjoy: volleyball, music, and being with my friends
 ## Why I'm Taking This Course
-I can't choose my AP classes
+I go to an engineering school
 ## What I Want to Build
-Another app
+A music website
